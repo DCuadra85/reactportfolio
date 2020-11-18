@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
 
-function Projects(props) {
+function Project(props) {
     return (
         <div className="project-card">
            <a href={props.link}>
@@ -21,4 +21,4 @@ function Projects(props) {
     )
 }
 
-export default Projects
+export default Project

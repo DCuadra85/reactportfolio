@@ -3,7 +3,7 @@ import './App.css';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Navbar from "./components/Navbar/navbar"
 import Footer from "./components/Footer/footer"
-// import Portfolio from "./pages/portfoliopage"
+import Portfolio from "./pages/portfoliopage"
 import AboutMe from "./pages/AboutMe"
 
 function App() {
@@ -30,9 +30,9 @@ function App() {
       <Route exact path={["/", "/aboutme"]}>
         <AboutMe />
       </Route>
-      {/* <Route exact path="/portfolio">
+      <Route exact path="/portfolio">
       <Portfolio />
-      </Route> */}
+      </Route>
     </Switch>
      
       <Footer />

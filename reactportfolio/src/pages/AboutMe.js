@@ -14,7 +14,7 @@ function AboutMe() {
     
               </span>
                   <article className="float-left">
-                  <img className = "portait mr-3" src="./assets/images/smallerimage.jpg" 
+                  <img className = "portait mr-3" src="https://dcuadra85.github.io/my-portfolio/assets/images/smallerimage.jpg" 
                   alt="Daniel Cuadra" width="200" height="200"></img>
                   </article>
                   
