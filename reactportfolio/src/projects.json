@@ -1,0 +1,24 @@
+
+[
+    {
+      "id": 1,
+      "title": "Calendar Time",
+      "image": "https://dcuadra85.github.io/my-portfolio/assets/images/workdayscheduler.png",
+      "description": "A page that tracks time and lets you store notes.",
+      "link": "https://dcuadra85.github.io/5-calender-time-api/"
+    },
+    {
+      "id": 2,
+      "title": "Note Taker",
+      "image": "https://dcuadra85.github.io/my-portfolio/assets/images/NoteTaker.gif",
+      "description": "A simple note taker app",
+      "link": "https://fast-dawn-03114.herokuapp.com/"
+    },
+    {
+      "id": 3,
+      "title": "The UCB Cookbook",
+      "image": "https://dcuadra85.github.io/my-portfolio/assets/images/cookbookanimate.gif",
+      "description": "The UCB Cookbook",
+      "link": "https://theucbcookbook.herokuapp.com/"
+    }
+  ]
