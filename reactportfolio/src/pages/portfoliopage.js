@@ -3,6 +3,7 @@ import Header from "../components/Header";
 import Container from "../components/Container";
 import Project from "../components/ProjectSection"
 import projects from "../projects.json";
+import Wrapper from "../components/Wrapper"
 
 class Portfolio extends Component {
     state ={
@@ -11,6 +12,7 @@ class Portfolio extends Component {
 
     render () {
         return(
+            <Wrapper>
             <div>
                 <Header>
                     Portfolio Page
@@ -28,6 +30,7 @@ class Portfolio extends Component {
                     ))}
                 </Container>
             </div>
+            </Wrapper>
             );
     }
 }

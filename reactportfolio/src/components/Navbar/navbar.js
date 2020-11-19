@@ -13,23 +13,23 @@ var style = {
     width: "100%",
 }
 
-var styletwo = {}
-
 function Navbar() {
     return (
 
-        <nav className="navbar-expand-lg" style={style}>
-            {/* <Link className="navbar-brand" to="/">
-                <img src={signature} className="navSignature " alt="Daniel Cuadra" />
-            </Link> */}
+        <nav className="navbar-expand-lg" >
+
             <div>
-                <ul className="navbar-nav ml-auto w-100 justify-content-end">
+
+                <ul className="navbar-nav ml-auto w-100 justify-content-end" style={style}>
                     <li className="nav-item">
                         <Link to="/aboutme">About Me</Link>
                     </li>
                     <li className="nav-item">
                         <Link to="/portfolio">Portfolio</Link>
                     </li>
+                    <Link className="navbar-signature pt-3" to="/">
+                        <img src={signature} className="navSignature " alt="Daniel Cuadra" />
+                    </Link>
                 </ul>
             </div>
         </nav>

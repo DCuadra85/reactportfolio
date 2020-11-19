@@ -1,8 +1,9 @@
 import React from "react";
+import Wrapper from "../components/Wrapper"
 
 function AboutMe() {
     return (
-
+        <Wrapper>
         <article className="container">
         <article className="row">
             <article className="col-lg-8 col-md-8 col-xs-6 p-3 my-3 bg-light text-info">
@@ -40,7 +41,7 @@ function AboutMe() {
             </article>
         </article>
         </article>
-
+        </Wrapper>
     )
 }
 

@@ -3,6 +3,7 @@ import "./style.css";
 import linkedin from "../../images/linkedinicon.png";
 import indeed from "../../images/indeedpng.png";
 import github from "../../images/githublogo.png";
+import email from "../../images/emailpng.png"
 
 var style = {
     backgroundColor: "#BBBBBB",
@@ -29,7 +30,9 @@ function Footer() {
             <a href="https://github.com/DCuadra85">
                 <img src={github} alt="github"></img>
             </a>
-
+            <a href="mailto: daniel.cuadra85@gmail.com">
+                <img src={email} alt={email}></img>
+            </a>
             </div>
             <span> Copyright © Daniel Cuadra</span>
         </footer>
