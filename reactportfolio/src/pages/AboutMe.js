@@ -1,5 +1,6 @@
 import React from "react";
 import Wrapper from "../components/Wrapper"
+import myphoto from "../images/smallerimage.jpg"
 
 function AboutMe() {
     return (
@@ -15,7 +16,7 @@ function AboutMe() {
     
               </span>
                   <article className="float-left">
-                  <img className = "portait mr-3" src="https://dcuadra85.github.io/my-portfolio/assets/images/smallerimage.jpg" 
+                  <img className = "portait mr-3" src={myphoto} 
                   alt="Daniel Cuadra" width="200" height="200"></img>
                   </article>
                   
