@@ -13,7 +13,7 @@ function App() {
     <Router>
       <Navbar />
     <Switch>
-      <Route exact path={["/", "/aboutme"]}>
+      <Route exact path={["/", "/aboutme", "/reactportfolio"]}>
         <AboutMe />
       </Route>
       <Route exact path="/portfolio">
