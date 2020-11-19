@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/DCuadra85/reactportfolio/static/css/main.fd2bb66e.chunk.css",
-    "main.js": "/DCuadra85/reactportfolio/static/js/main.e44e780c.chunk.js",
-    "main.js.map": "/DCuadra85/reactportfolio/static/js/main.e44e780c.chunk.js.map",
+    "main.css": "/DCuadra85/reactportfolio/static/css/main.b01baba0.chunk.css",
+    "main.js": "/DCuadra85/reactportfolio/static/js/main.c263b3ab.chunk.js",
+    "main.js.map": "/DCuadra85/reactportfolio/static/js/main.c263b3ab.chunk.js.map",
     "runtime-main.js": "/DCuadra85/reactportfolio/static/js/runtime-main.0c7cccb0.js",
     "runtime-main.js.map": "/DCuadra85/reactportfolio/static/js/runtime-main.0c7cccb0.js.map",
     "static/css/2.1a02f21c.chunk.css": "/DCuadra85/reactportfolio/static/css/2.1a02f21c.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.fc3149e9.chunk.js.map": "/DCuadra85/reactportfolio/static/js/3.fc3149e9.chunk.js.map",
     "index.html": "/DCuadra85/reactportfolio/index.html",
     "static/css/2.1a02f21c.chunk.css.map": "/DCuadra85/reactportfolio/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.fd2bb66e.chunk.css.map": "/DCuadra85/reactportfolio/static/css/main.fd2bb66e.chunk.css.map",
+    "static/css/main.b01baba0.chunk.css.map": "/DCuadra85/reactportfolio/static/css/main.b01baba0.chunk.css.map",
     "static/js/2.142ae357.chunk.js.LICENSE.txt": "/DCuadra85/reactportfolio/static/js/2.142ae357.chunk.js.LICENSE.txt",
     "static/media/style.css": "/DCuadra85/reactportfolio/static/media/backgroundimage.644d3133.jpg",
     "static/media/emailpng.9535826c.png": "/DCuadra85/reactportfolio/static/media/emailpng.9535826c.png",
@@ -25,7 +25,7 @@
     "static/js/runtime-main.0c7cccb0.js",
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.142ae357.chunk.js",
-    "static/css/main.fd2bb66e.chunk.css",
-    "static/js/main.e44e780c.chunk.js"
+    "static/css/main.b01baba0.chunk.css",
+    "static/js/main.c263b3ab.chunk.js"
   ]
 }
